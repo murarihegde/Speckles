@@ -1,0 +1,7 @@
+numpy>=1.9.2
+scipy>=0.15.1
+torch>=0.2.0
+torchvision>=0.2.0
+os>=0.1.0
+dataloader>=0.1.0
+scikit-learn>=0.18
